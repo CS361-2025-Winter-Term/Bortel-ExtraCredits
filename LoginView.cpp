@@ -8,8 +8,6 @@ class LoginView {
 
     public:
     // Methods
-    static LoginView getInstance();
-
     std::string readPasswordTextbox();
     std::string readUsernameTextbox();
     std::string readEmailTextbox();
