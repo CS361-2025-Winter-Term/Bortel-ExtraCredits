@@ -1,5 +1,4 @@
 #include <string>
-#include <Notification_Preferences.cpp>
 #include <UserProfile.cpp>
 
 class AuthenticationManager {

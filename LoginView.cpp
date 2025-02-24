@@ -5,7 +5,6 @@
 class LoginView {
     // Attributes
     private:
-    static LoginView login;
 
     public:
     // Methods
